@@ -3,3 +3,4 @@
 3. xampp 서버 웹서비스 만들기
    localhost/Aitest.html
    c:/xampp/htdocs
+4. 테스트 완료
